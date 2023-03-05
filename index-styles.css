@@ -48,6 +48,12 @@ h3 {
   text-align: end;
   margin: 3px 0px;
 }
+p.extra-conditions {
+  margin-bottom: 8px;
+}
+span {
+  color: #2a2a2a;
+}
 ol {
   padding-inline-start: 20px;
 }
