@@ -80,6 +80,7 @@ li ul:first-child {
 }
 .content img {
   margin: 25px 0px;
+  min-width: 110px;
 }
 
 @media only screen and (max-width: 665px) {
